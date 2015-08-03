@@ -1,5 +1,4 @@
 # iOS-game
 
-1. Download files.
-2. Create a single view application with xcode.
-3. Add all files.
+1. Download Zip.
+2. Open Xcode and execute.
